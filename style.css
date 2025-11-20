@@ -98,4 +98,28 @@ input[type="radio"] {
         font-size: 16px;
     }
 }
+.footer {
+  background-color: lightskyblue;
+  padding: 25px 0;
+  text-align: center;
+  margin-top: 40px;
+  border-top: 1px solid #ddd;
+}
+
+.footer-links {
+  margin-bottom: 10px;
+}
+
+.footer-links a {
+  margin: 0 12px;
+  color: #444;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.footer-links a:hover {
+  text-decoration: underline;
+}
+
+
 
